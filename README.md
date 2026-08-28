@@ -33,10 +33,15 @@ The board utilizes a standard **4-layer stackup** to optimize signal integrity, 
 *   **Layer 3 (Internal 2):** Dedicated Power (PWR) plane.
 *   **Layer 4 (Bottom):** Low-speed signals and routing channels.
 
+## 3D Visuals of The Board
+
+<img width="700" height="581" alt="Screenshot 2026-08-28 154627" src="https://github.com/user-attachments/assets/06f51a54-b662-4a87-979c-155baff18248" /> <br><br>
+<img width="584" height="660" alt="Screenshot 2026-08-28 154612" src="https://github.com/user-attachments/assets/9414a768-a623-458d-b048-68f49f6ee7b1" />
+
+
 ## Repository Contents
 *   **`/Gerber_Files`**: Contains the complete manufacturing package (`.zip`) including copper layers, masks, silkscreens, board outline, and 4:4 precision NC Drill files ready for fabrication.
 *   **`/Schematics`**: High-resolution PDF of the modular circuit design.
-*   **`/3D_Renders`**: Visual representations of the fully populated board.
 *   **`BOM.md`**: Complete Bill of Materials detailing component selection and footprint data.
 
 ---
