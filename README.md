@@ -36,8 +36,8 @@ The board utilizes a standard **4-layer stackup** to optimize signal integrity, 
 ## Repository Contents
 *   **`/Gerber_Files`**: Contains the complete manufacturing package (`.zip`) including copper layers, masks, silkscreens, board outline, and 4:4 precision NC Drill files ready for fabrication.
 *   **`/Schematics`**: High-resolution PDF of the modular circuit design.
-*   **`/BOM`**: Complete Bill of Materials detailing component selection and footprint data.
 *   **`/3D_Renders`**: Visual representations of the fully populated board.
+*   **`BOM.md`**: Complete Bill of Materials detailing component selection and footprint data.
 
 ---
 *Designed by Amaar Ayman*
